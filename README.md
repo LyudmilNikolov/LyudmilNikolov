@@ -9,8 +9,6 @@
 
 - 🎓 I'm currently pursuing my Bachelor's in **Computer Science Engineering.**
 
-- 🌱 I’m currently learning **React.**
-
 - 🔭 I’m currently working on **famous app clones and simple 2D Web Games.**
 
 - 📫 How to reach me **nikolovlyudmill@gmail.com**
